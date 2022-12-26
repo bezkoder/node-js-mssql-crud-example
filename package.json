@@ -19,8 +19,8 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "sequelize": "^6.6.5",
-    "tedious": "^11.4.0"
+    "express": "^4.18.2",
+    "sequelize": "^6.28.0",
+    "tedious": "^15.1.2"
   }
 }
